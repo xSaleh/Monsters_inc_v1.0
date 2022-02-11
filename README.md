@@ -1,6 +1,6 @@
-# Monsters_inc_v1.0
-Simple ransomware ..
-You can develop the ransomware by adding some features such as :
+# Monsters_inc_v1.0<br>
+Simple ransomware ..<br>
+You can develop the ransomware by adding some features such as :<br><br>
 
         'Bypass UAC
         'Process.Start("cmd", "/c SET __COMPAT_LAYER=RunAsInvoker")
